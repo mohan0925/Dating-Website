@@ -31,7 +31,7 @@ they would start their conversion again.
 
 **User can view all the liked users in different webpage. Once if the user dislikes any of the liked users, then the profile will be removed from likes list:**
 
-<img width="361" alt="likes" src="https://user-images.githubusercontent.com/18571407/97813254-c87ca100-1c7e-11eb-9996-427b167438ee.PNG">
+<img width="361" alt="likes" src="https://user-images.githubusercontent.com/18571407/97813254-c87ca100-1c7e-11eb-9996-427b167438ee.PNG"> 
 
 **When both the users like each other then the profile of the user will be displayed in the matches webpage:**
 
